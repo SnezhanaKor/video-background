@@ -1,0 +1,33 @@
+/*.video-full {
+   position: fixed;
+    background-size: cover;
+    z-index: 1;
+    top: 0;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+}*/
+body {
+    margin: 0 auto;
+}
+.video-bg {
+    position: fixed;
+    overflow: hidden;
+    z-index: -100;
+}
+.video-full {
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height : 100%;
+}
+.content {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+
+
